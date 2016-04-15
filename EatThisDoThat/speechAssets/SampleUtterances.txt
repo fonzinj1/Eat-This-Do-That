@@ -1,0 +1,14 @@
+RecipeIntent tell me about {Item}
+RecipeIntent I want to know about {Item}
+RecipeIntent how many calories in {Item}
+RecipeIntent I ate a {Item}
+RecipeIntent I ate {Item}
+RecipeIntent I want to eat {Item}
+RecipeIntent what should I do if I ate {Item}
+RecipeIntent what about {Item}
+RecipeIntent should I eat {Item}
+RecipeIntent I would like to eat {Item}
+RecipeIntent I had {Item}
+RecipeIntent I wanted to eat a {Item}
+RecipeIntent what should I do if I ate {Item}
+RecipeIntent {Item}
